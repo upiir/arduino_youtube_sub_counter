@@ -3,6 +3,9 @@ YouTube Subscribers Counter using eink display (Inkplate 2 board) with Arduino-c
 
 **YouTube video: https://youtu.be/HFFhTrAkerU**
 
+- Inkplate 2 board: https://soldered.com/product/inkplate-2/
+- Microbit and e-ink: https://youtu.be/oAJUBPxjCwk
+- More eink displays: https://www.youtube.com/playlist?list=PLjQRaMdk7pBZmeDK3mALh9LI_CrzElPod
 
 Small animation:
 
