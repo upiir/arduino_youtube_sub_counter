@@ -7,6 +7,12 @@ YouTube Subscribers Counter using eink display (Inkplate 2 board) with Arduino-c
 - Microbit and e-ink: https://youtu.be/oAJUBPxjCwk
 - More eink displays: https://www.youtube.com/playlist?list=PLjQRaMdk7pBZmeDK3mALh9LI_CrzElPod
 
+
+![THUMB_soldered_yt_counter](https://github.com/upiir/arduino_youtube_sub_counter/assets/117754156/9a5d0be5-3931-4751-b55d-8aff6d57df3d)
+
+
+
+
 Small animation:
 
 ![soldered_eink](https://github.com/upiir/arduino_youtube_sub_counter/assets/117754156/201e701d-ccb8-4450-9559-bb97a03758d3)
